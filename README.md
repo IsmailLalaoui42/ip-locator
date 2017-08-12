@@ -2,9 +2,9 @@
 
 #>retrieve informations about an ip adress or a hostname 
 
-#>before opening the tool use this command 
+#>before opening the tool use this command to make it executable :
 
-$chmod +x ip-locator.pl 
+$ chmod +x ip-locator.pl 
 
 #>just provides information from this website 
  
