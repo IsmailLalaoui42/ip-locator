@@ -1,8 +1,8 @@
 # IP-Locator-perl
 
-## Retrieve informations about an ip adress or a hostname 
+### Retrieve informations about an ip adress or a hostname 
 
-## Before using make it an executable :
+### Before using make it an executable :
 
 $ chmod +x ip-locator.pl 
 
