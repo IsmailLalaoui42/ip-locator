@@ -1,15 +1,16 @@
-# IP-Locator was made by Vertigo_101
+# IP-Locator-perl
 
-#>retrieve informations about an ip adress or a hostname 
+## Retrieve informations about an ip adress or a hostname 
 
-#>before opening the tool use this command to make it executable :
+## Before using make it an executable :
 
 $ chmod +x ip-locator.pl 
 
-#>just provides information from this website 
- 
- #http://ip-api.com/
+#### Api used :  http://ip-api.com/
+
+## In Action : 
+![screenshot 4](https://user-images.githubusercontent.com/29705703/32957231-1919311a-cbe1-11e7-8532-5996e4228728.png)
+
+
   	
-        Don't trust everything,
-	      Normal is just an illusion.
-               -Vertigo_101
+ 
